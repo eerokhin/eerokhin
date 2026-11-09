@@ -31,12 +31,6 @@ My focus areas:
 
 Projects demonstrating my practical experience with data engineering tools and architectures.
 
-### Currently Learning
-
-- Advanced Apache Spark
-- Data Lakehouse architecture
-- Data Engineering best practices
-
 ### Contact
 
 - LinkedIn: [Evgeny Erokhin](https://www.linkedin.com/in/evgeny-erokhin-68114a253/)
