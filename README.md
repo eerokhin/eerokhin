@@ -1,4 +1,4 @@
-# Hi, I'm Evgeny 👋
+# Hi, I'm Evgeniy 👋
 
 ### Data Engineer | Python · SQL · Hadoop · Spark · Airflow · Trino · Iceberg · dbt
 
