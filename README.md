@@ -27,10 +27,6 @@ My focus areas:
 
 **Infrastructure:** Docker, Git
 
-### Featured Projects
-
-Projects demonstrating my practical experience with data engineering tools and architectures.
-
 ### Contact
 
 - LinkedIn: [Evgeny Erokhin](https://www.linkedin.com/in/evgeny-erokhin-68114a253/)
