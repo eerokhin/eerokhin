@@ -19,13 +19,13 @@ My focus areas:
 
 **Orchestration:** Apache Airflow
 
-**Data Lakehouse:** Apache Iceberg, Trino, S3 / MinIO
+**Data Lakehouse:** Apache Iceberg, Trino, dbt Core, S3 / MinIO, Parquet
 
-**Data Transformation:** dbt
+**Streaming & CDC:** Apache Kafka, Debezium, PostgreSQL WAL, CDC
 
-**Databases:** PostgreSQL
+**Databases & OLAP:** PostgreSQL, ClickHouse
 
-**Infrastructure:** Docker, Git
+**Infrastructure & Tools:** Docker, Git
 
 ### Contact
 
